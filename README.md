@@ -1,10 +1,11 @@
 ![Issues](https://img.shields.io/github/issues/helpdeveloper/gzip-json-jackson.svg)
 ![Forks](https://img.shields.io/github/forks/helpdeveloper/gzip-json-jackson.svg)
 ![Stars](https://img.shields.io/github/stars/helpdeveloper/gzip-json-jackson.svg)
-![Release Version](https://img.shields.io/github/release/helpdeveloper/gzip-json-jackson.svg)
 ![WorkFlow](https://github.com/helpdeveloper/gzip-json-jackson/workflows/Java%20CI%20with%20Maven/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d492d9f4f03941f1aadfb4094536ef76)](https://www.codacy.com/gh/helpdeveloper/gzip-json-jackson/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=helpdeveloper/gzip-json-jackson&amp;utm_campaign=Badge_Grade)
 [![Coverage Status](https://coveralls.io/repos/github/helpdeveloper/gzip-json-jackson/badge.svg?branch=main)](https://coveralls.io/github/helpdeveloper/gzip-json-jackson?branch=main)
+![Release Version](https://img.shields.io/github/release/helpdeveloper/gzip-json-jackson.svg)
+[![JitPack](https://jitpack.io/v/helpdeveloper/gzip-json-jackson.svg)](https://jitpack.io/#helpdeveloper/gzip-json-jackson)
 
 # GZIP JSON Jackson
 
@@ -25,7 +26,7 @@ get more extensive than the original JSON.
         <dependency>
             <groupId>com.github.helpdeveloper</groupId>
             <artifactId>gzip-json-jackson</artifactId>
-            <version>{last-release}</version>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
         
